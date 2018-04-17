@@ -72,6 +72,7 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 
 ## ⏰ Things you don't know about me
 
-I was Editor in Chief of Student Media Organization TVPW (about 80 active participants). We make commercials, live streams and many, many more. Check our work [here](www.tvpw.pl)
+I was Editor in Chief of Student Media Organization TVPW (about 80 active participants).
+We make commercials, live streams and many, many more. Check our work [here](http://www.tvpw.pl)
 
 I kinda like animals 😐 I had a turtle 🐢 but now I have 🐈.
