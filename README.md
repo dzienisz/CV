@@ -15,7 +15,7 @@ I am passionate about programming, solving problems and creating visually pleasi
 
 Initially I was working with wordpress based websites, but currently I am leaning towards web applications developed with javascript.
 
-Make better 🌎 working on Open Souce [Smogly Air Monitor](https://github.com/SmoglyAirMonitor)
+Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/SmoglyAirMonitor)
 
 ## 🥌 Core skills
 - **React.js with MobX** 🎉
