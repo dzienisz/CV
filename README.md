@@ -8,7 +8,6 @@
 - 🌎 Warsaw, Poland
 - 📪 kamil.dzieniszewski@gmail.com
 - 🙊 Polish, English, German
-- 🚙 Driving licence (cat. B)
 
 ## 📃 Summary
 
@@ -16,7 +15,7 @@ I am passionate about programming, solving problems and creating visually pleasi
 
 Initially I was working with wordpress based websites, but currently I am leaning towards web applications developed with javascript.
 
-Make better 🌎 working on Open Souce [Smogly Air Monitor](https://www.linkedin.com/in/dzieniszewski/)
+Make better 🌎 working on Open Souce [Smogly Air Monitor](https://github.com/SmoglyAirMonitor)
 
 ## 🥌 Core skills
 - **React.js with MobX** 🎉
@@ -33,7 +32,7 @@ Make better 🌎 working on Open Souce [Smogly Air Monitor](https://www.linkedin
 - **STYLES**: SCSS, bootstrap 🤔
 - **CODE STYLE** SOLID, TDD, DRY
 
-## 🙌 Things I would like to use
+## 🙌 Things I would like to learn
 - Node.js (some tutorial already made)
 - Redux (counter and basic stuff)
 - TDD (more tests)
@@ -56,7 +55,7 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 - GitHub: github.com/dzienisz
 - Koduje: [Website](http://www.kodu.je/), [YouTube](https://www.youtube.com/c/koduje)
 - Courses: [srzg.pl](https://szkolarzemioslgastronomicznych.pl/) (2018)
-- Dentist: [Milemed.pl](www.milemed.pl) (2017)
+- Dentist: [Milemed.pl](http://www.milemed.pl) (2017)
 
 ## 📚 Education
 
@@ -75,4 +74,4 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 
 I was Editor in Chief of Student Media Organization TVPW (about 80 active participants). We make commercials, live streams and many, many more. Check our work [here](www.tvpw.pl)
 
-I kida like animals 😐 I had a turtle 🐢 but now I have 🐈.
+I kinda like animals 😐 I had a turtle 🐢 but now I have 🐈.
