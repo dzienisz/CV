@@ -13,7 +13,7 @@
 
 I am passionate about programming, solving problems and creating visually pleasing experiences.
 
-Initially I was working with wordpress based websites, but currently I am leaning towards web applications developed with javascript.
+Initially I was working with Wordpress based websites, but currently I am leaning towards web applications developed with JavaScript.
 
 Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/SmoglyAirMonitor)
 
@@ -23,7 +23,7 @@ Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/
 - PHP with MySQL (summer love 😘)
 - Wordpress 😵
 
-## 🚀 Technolgy I use in my Apps
+## 🚀 Technology I use in my Apps
 - **DATABASE**: Firebase, MongoDB, MySQL
 - **COMUNNICATION**: REST, Socket.io
 - **STATE**: MobX, Learning Redux
@@ -32,7 +32,7 @@ Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/
 - **STYLES**: SCSS, bootstrap 🤔
 - **CODE STYLE** SOLID, TDD, DRY
 
-## 🙌 Things I would like to learn
+## 🙌 Things I would like to learn in Q1 2018
 - Node.js (some tutorial already made)
 - Redux (counter and basic stuff)
 - TDD (more tests)
@@ -55,7 +55,7 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 - GitHub: github.com/dzienisz
 - Koduje: [Website](http://www.kodu.je/), [YouTube](https://www.youtube.com/c/koduje)
 - Courses: [srzg.pl](https://szkolarzemioslgastronomicznych.pl/) (2018)
-- Dentist: [Milemed.pl](http://www.milemed.pl) (2017)
+- Dentist: [milemed.pl](http://www.milemed.pl) (2017)
 
 ## 📚 Education
 
@@ -72,7 +72,7 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 
 ## ⏰ Things you don't know about me
 
-I was Editor in Chief of Student Media Organization TVPW (about 80 active participants).
+I was **Editor in Chief** of Student Media Organization TVPW (about 80 active participants).
 We make commercials, live streams and many, many more. Check our work [here](http://www.tvpw.pl)
 
 I kinda like animals 😐 I had a turtle 🐢 but now I have 🐈.
