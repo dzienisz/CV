@@ -39,6 +39,10 @@ Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/
 
 ## 💥 Experience
 
+**Daftcode** (May 2017 to now...)  
+*Front-end Developer*
+- Front-end React Apps with SSR (next.js)
+
 **GogoApps** (August 2017 to April 2018)  
 *Front-end Developer*
 - Front-end React Apps with MobX state management
