@@ -18,30 +18,37 @@ Initially I was working with Wordpress based websites, but currently I am leanin
 Make better 🌎 working on Open Source [Smogly Air Monitor](https://github.com/SmoglyAirMonitor)
 
 ## 🥌 Core skills
-- **React.js with MobX** 🎉
-- JavaScript/ ES6
-- PHP with MySQL (summer love 😘)
-- Wordpress 😵
+- **React.js** with **Redux** or **MobX** 🎉
+- React Native
+- SSR (Server Side Rendering) 
+- SEO - Google Analitics stuff 🌌
+- JavaScript/ES6
+
+### Depreciated skills
+- PHP with MySQL 👴
+- Wordpress 😵 (Timber templates)
 
 ## 🚀 Technology I use in my Apps
-- **DATABASE**: Firebase, MongoDB, MySQL
+- **DATABASE**: MongoDB, PostgreSQL, Firebase
 - **COMUNNICATION**: REST, Socket.io
-- **STATE**: MobX, Learning Redux
-- **BUILDER**: Webpack, Inspired by Parcel
+- **STATE**: Redux, MobX
+- **BUILDER**: Webpack
 - **TESTS**: jest, enzyme
-- **STYLES**: SCSS, bootstrap 🤔
+- **STYLES**: SASS, SCSS, bootstrap grid 🤔
 - **CODE STYLE** SOLID, TDD, DRY
 
-## 🙌 Things I would like to learn in Q1 2018
-- Node.js (some tutorial already made)
-- Redux (counter and basic stuff)
-- TDD (more tests)
+## 🙌 Things I would like to learn more
+- Node.js (planned for Q1 2019 or RoR? 🤔)
+- ~~Redux (counter and basic stuff)~~ Q2 2018
+- ~~TDD (more tests)~~ @3 2018
 
 ## 💥 Experience
 
-**Daftcode** (May 2017 to now...)  
+**Daftcode** (May 2017 - until now...)  
 *Front-end Developer*
-- Front-end React Apps with SSR (next.js)
+- Front-end React Apps with SSR (next.js, Redux, TDD, Storybook)
+- React Native 😍
+- Front-end Teacher @ [DaftAcademy](https://daftacademy.pl)
 
 **GogoApps** (August 2017 to April 2018)  
 *Front-end Developer*
@@ -61,6 +68,11 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 - Courses: [srzg.pl](https://szkolarzemioslgastronomicznych.pl/) (2018)
 - Dentist: [milemed.pl](http://www.milemed.pl) (2017)
 
+## 🍕 Achievements
+
+- Interview in Business Insider (PL) - [Praktyczna wiedza na wyciągnięcie ręki. Firmy technologiczne coraz chętniej dzielą się wiedzą ze studentami](https://businessinsider.com.pl/technologie/digital-poland/bezplatne-kursy-it-na-warszawskich-uczelniach/jqwsb7w)
+- HackYeah 2018 Hackaton Winner! - [Photos](https://www.linkedin.com/feed/update/urn:li:activity:6472803739848835072)
+
 ## 📚 Education
 
 - 2017 - till now
@@ -79,4 +91,4 @@ The full list will be found [here](https://www.linkedin.com/in/dzieniszewski/)
 I was **Editor in Chief** of Student Media Organization TVPW (about 80 active participants).
 We make commercials, live streams and many, many more. Check our work [here](http://www.tvpw.pl)
 
-I kinda like animals 😐 I had a turtle 🐢 but now I have 🐈.
+I like animals... 😐 I had a turtle 🐢.
