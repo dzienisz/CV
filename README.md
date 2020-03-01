@@ -43,8 +43,8 @@ After work making better 🌎 coding Open Source.
 
 ## 💥 Experience
 
-**Undisclosed FinTech Startup** (June 2019 - Now..)
-- I could tell you, but then I would have to kill you - "The Hounds of Baskervilles" featuring Sherlock Holmes
+**Vodeno** (June 2019 - Now..)
+- Creating new European Subscription-based Challenger Bank - [Aion](https://www.aion.be/)!
 
 **Daftcode** (May 2018 - May 2019)  
 *Front-end Developer*
