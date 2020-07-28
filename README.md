@@ -44,6 +44,7 @@ After work making better 🌎 coding Open Source.
 ## 💥 Experience
 
 **Vodeno** (June 2019 - Now..)
+*Senior Front-end Developer*
 - Creating new European Subscription-based Challenger Bank - [Aion](https://www.aion.be/)!
 
 **Daftcode** (May 2018 - May 2019)  
