@@ -1,12 +1,10 @@
 # Kamil Dzieniszewski
 - 💻 Front-end Developer 
 - 🥤 Community Leader [@meetjs](https://twitter.com/meetjs) Warsaw
-- 🎥 Video Editor (recording, production, audio)
 
 ## 📱 Contact
 
 - 🌎 Warsaw, Poland
-- 📪 kamil.dzieniszewski@gmail.com
 - 🙊 Polish (Native), English (C1), German (A1)
 
 ## 📃 Summary
@@ -43,9 +41,13 @@ After work making better 🌎 coding Open Source.
 
 ## 💥 Experience
 
-**Vodeno** (June 2019 - Now..)
+**Teckro** (April 2022 - Now..)
 *Senior Front-end Developer*
-- Creating new European Subscription-based Challenger Bank - [Aion](https://www.aion.be/)!
+- Clinical Trial Software for Better Outcomes - [Teckro](https://teckro.com/)
+
+**Vodeno** (June 2019 - April 2022)
+*Senior Front-end Developer*
+- Creating new European Subscription-based Challenger Bank - [Aion](https://aion.be/)
 
 **Daftcode** (May 2018 - May 2019)  
 *Front-end Developer*
